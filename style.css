@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+}
+
+.primaria{
+    background-color: #42394b;
+    height: 100vh;
+    border-bottom: 50px solid transparent;
+    border-image: url("borda-pixelada.png") 340 round;
+}
+
+.secundaria{
+    background-color: #ccbbe3;
+    height: 100vh;
+}
+
